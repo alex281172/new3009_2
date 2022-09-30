@@ -8,8 +8,8 @@ theme: /
         event!: match
         a: {{$context.intent.answer}}
         
-require: offtopic.sc
-    module = offtopic
+require: newOfftopic.sc
+    module = newOfftopic
 
 theme: /
 
