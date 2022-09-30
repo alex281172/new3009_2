@@ -9,7 +9,7 @@ theme: /
         a: {{$context.intent.answer}}
         
 require: offtopic.sc
-    module = newOfftopic
+    module = offtopic
 
 theme: /
 

@@ -16,5 +16,5 @@ caila:
   noMatchThreshold: 0.2
   
 dependencies:
-  - name: newOfftopic
+  - name: offtopic
     type: module
